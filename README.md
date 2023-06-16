@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanmi7)](https://github.com/Juanmi7)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Juanmi7)
 
 <picture>
 <source
@@ -12,5 +13,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Juanmi7&show_icons=true" />
 </picture>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Juanmi7)
