@@ -1,17 +1,26 @@
 ### Hi there 👋
 
-<!--
-**Juanmi7/Juanmi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
+# Configuration for welcome - https://github.com/behaviorbot/welcome
 
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
 
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  Thanks for opening the issue!   
+  Do join our discord server [DevSpace,](https://discord.gg/PwU8sza) a place for Awesome Developer's :)
+    
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: >
+ Thanks for opening this pull request!    
+ Do join our discord server [DevSpace,](https://discord.gg/PwU8sza) a place for Awesome Developer's :)
+  
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
+# Comment to be posted to on pull requests merged by a first time user
+
+firstPRMergeComment: >
+ Congrats on merging your first pull request!   
+ Do join our discord server [DevSpace,](https://discord.gg/PwU8sza) a place for Awesome Developer's :)
 
