@@ -23,6 +23,8 @@
 
 - I'm from Malaga, I'm 34 years old, and I have a deep passion for technology and computer science. As a Full Stack Web developer, I'm highly motivated to demonstrate my skills and contribute to exciting projects that allow me to continue growing in my field.
 
+- Y LOVE CSS! 
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
