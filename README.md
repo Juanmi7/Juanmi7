@@ -19,6 +19,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
+
 <br>
 
 - I'm from Malaga, I'm 34 years old, and I have a deep passion for technology and computer science. As a Full Stack Web developer, I'm highly motivated to demonstrate my skills and contribute to exciting projects that allow me to continue growing in my field.
