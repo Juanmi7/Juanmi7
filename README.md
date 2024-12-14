@@ -8,21 +8,9 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Juanmi</h1></summary>
   </ul>
 </div>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-
-
 <br>
 
-- I'm from Malaga, I'm 34 years old, and I have a deep passion for technology and computer science. As a Full Stack Web developer, I'm highly motivated to demonstrate my skills and contribute to exciting projects that allow me to continue growing in my field.
+- I'm from Malaga, I'm 35 years old, and I have a deep passion for technology and computer science. As a Full Stack Web developer, I'm highly motivated to demonstrate my skills and contribute to exciting projects that allow me to continue growing in my field.
 
 - Y LOVE CSS! 
 
