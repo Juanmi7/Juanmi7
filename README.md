@@ -12,6 +12,7 @@
 
 - I'm from Malaga, I'm 35 years old, and I have a deep passion for technology and computer science. As a Full Stack Web developer, I'm highly motivated to demonstrate my skills and contribute to exciting projects that allow me to continue growing in my field.
 <p align="center">
+<br>
 
 - **Front-End Development**:
 
