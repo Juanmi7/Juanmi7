@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <br>   <br> 
+  <br>   
 - **Front-End Development**:
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,ts&perline=5)](https://skillicons.dev)
